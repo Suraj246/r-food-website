@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/r-food-website/static/css/main.bc13ae28.css",
+    "main.js": "/r-food-website/static/js/main.0542476f.js",
+    "static/js/787.b79d066f.chunk.js": "/r-food-website/static/js/787.b79d066f.chunk.js",
+    "index.html": "/r-food-website/index.html",
+    "main.bc13ae28.css.map": "/r-food-website/static/css/main.bc13ae28.css.map",
+    "main.0542476f.js.map": "/r-food-website/static/js/main.0542476f.js.map",
+    "787.b79d066f.chunk.js.map": "/r-food-website/static/js/787.b79d066f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc13ae28.css",
+    "static/js/main.0542476f.js"
+  ]
+}
