@@ -1,0 +1,13 @@
+.CartList{
+    background-color: #252525;
+}
+.cart-list{
+    width:calc(10% - 1vw);
+    display: flex;
+    gap: 20px;
+    background-color:#343434;
+}
+.cart-img{
+    width:100%;
+    gap: 30px;
+}
